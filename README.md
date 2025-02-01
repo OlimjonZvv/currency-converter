@@ -10,8 +10,8 @@ Sodda va interaktiv foydalanuvchi interfeysi (pywebio asosida).
 
 TALABLAR.
 Loyihani ishga tushirish uchun quyidagi kutubxonalar kerak:
-Python 3.8 yoki undan yuqori versiya
-requests
+Python 3.8 yoki undan yuqori versiya,
+requests,
 pywebio
 
 FOYDALANISH.
