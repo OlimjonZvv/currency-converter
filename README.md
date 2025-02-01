@@ -1,5 +1,5 @@
 # currency-converter
-VAVLYUTA KONVERTORI.
+VALYUTA KONVERTORI.
 Ushbu loyiha valyuta kurslarini olish va summalarni turli valyutalar orasida oson konvertatsiya qilish uchun mo'ljallangan. Dastur pywebio interfeysi orqali foydalanuvchilar bilan ishlaydi va valyuta kurslarini ExchangeRate-API orqali oladi.
 
 XUSUSIYATLARI.
